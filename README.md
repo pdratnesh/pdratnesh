@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pdratnesh
-- 👀 I’m interested in softwre and web development
-- 🌱 I’m currently learning in B. tech
+- 👀 I’m interested in software and web development
+- 🌱 I’m currently pursuing B. tech
 - 💞️ I’m looking to collaborate on webdevelopment for my owen bussiness
 - 📫 contacting me on my inbox for collaboration 
 thankyou...!
